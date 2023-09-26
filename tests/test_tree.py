@@ -35,7 +35,7 @@ def test_tree():
                  estimator = "random_permutation",
                  proportion_budget = 0.5,
                  range_x = "unit",
-                 min_ratio_pri_est = 0,).fit(X_train, y_pub)
+                 min_ratio_pri_est = 0,).fit(X_train, y_train)
     
     print(MSE(model.predict(X_test), y_test))
 

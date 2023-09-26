@@ -5,13 +5,14 @@ The implementation is based on pure Python with the following required packages:
 
 - Scikit-learn
 - NumPy
-- Pandas
 - Numba
 - Scipy
 
 ## Contents
 
 - [Installation](#Installation)
+- [Demo](#Demo)
+- [References](#References)
 
 
 ## Installation
